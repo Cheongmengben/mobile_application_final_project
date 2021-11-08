@@ -103,7 +103,6 @@ void getPosts() {
                             displayPost = posts;
                           });
                           }
-                print(favoritePost);
               },
             ),
           ],
